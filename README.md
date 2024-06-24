@@ -1,5 +1,5 @@
 ### CifraCombinada
-A classe `CifraCombinada` é armazena a chave usada e implementa o métodos de cifragem por substituição e transposição.
+A classe `CifraCombinada` armazena a chave usada no processo de cifragem e implementa o métodos de cifra por substituição e transposição.
 
 #### Métodos Implementados:
 - `byte[] cifraSubstituicao(dados: byte[], chave: String)`: Cifra o array de bytes recebido com base na chave usando o método de substituição.
